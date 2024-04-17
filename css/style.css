@@ -297,7 +297,7 @@ img {
         padding: 0;
         display: flex;
         align-items: top;
-        background-image: url('../Images/feetbg.png'), url('../Images/feetbg.png');
+        background-image: url('../images/feetbg.png'), url('../images/feetbg.png');
         background-size: 100%;
         background-position-y: 10%, 70%;
         background-repeat: no-repeat;
@@ -317,7 +317,7 @@ img {
         padding: 0;
         display: flex;
         align-items: top;
-        background: url('../Images/backbg.png');
+        background: url('../images/backbg.png');
         background-size: 100%;
         background-position-y: 40%;
         background-repeat: no-repeat;
@@ -337,7 +337,7 @@ img {
         padding: 0;
         display: flex;
         align-items: top;
-        background: url('../Images/jugs.webp');
+        background: url('../images/jugs.webp');
         background-size: 100%;
         background-position-y: 10%;
         background-repeat: no-repeat;
